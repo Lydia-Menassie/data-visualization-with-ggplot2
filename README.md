@@ -4,4 +4,4 @@ First graph shows the use of a coefficient plot that displays regression results
 Second graph displays a density curve. 
 Third graph shows the use of a line graph. 
 The final two display individual bar graphs, the first using standard error bars. 
-Downloadable data can be found at [American National Election Studies 2020](https://electionstudies.org/data-center/2020-time-series-study/)
+Downloadable data can be found at [American National Election Studies 2020](https://electionstudies.org/data-center/2020-time-series-study/).
